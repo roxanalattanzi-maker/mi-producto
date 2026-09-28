@@ -17,13 +17,13 @@ Los equipos de madurez muy baja (5 a 20 personas) entregan mal, con dos causas c
 - Missing: un SM o líder de un equipo de madurez muy baja que sufra alcance difuso y mala relación con negocio. Sugerencia: /generate-personas
 
 ## Signals
-| Signal | Provenance | Source |
-|---|---|---|
+| Signal                                                                                              | Provenance | Source                                                             |
+| --------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------ |
 | Madurez muy baja, tamaños de 5 a 20, dolores de comunicación con negocio, claridad y malas entregas | unverified | Ranking de equipos del área de agilidad, sin export citado todavía |
-| Equipos antiguos con mando vertical: mala entrega y renuncias | unverified | product/overview.md |
-| Retros y uno a uno no destraban conflictos; 3 de 9 renuncias en un año | synthetic | personas/mariela-quiroga.md |
-| 5 de 8 rotaron en 12 meses | synthetic | personas/tomas-benitez.md |
-| Mala entrega por dependencias y ambientes, sin conflictos | synthetic | personas/florencia-aguirre.md |
+| Equipos antiguos con mando vertical: mala entrega y renuncias                                       | unverified | product/overview.md                                                |
+| Retros y uno a uno no destraban conflictos; 3 de 9 renuncias en un año                              | synthetic  | personas/mariela-quiroga.md                                        |
+| 5 de 8 rotaron en 12 meses                                                                          | synthetic  | personas/tomas-benitez.md                                          |
+| Mala entrega por dependencias y ambientes, sin conflictos                                           | synthetic  | personas/florencia-aguirre.md                                      |
 
 ## Business outcome
 Interno: que mejoren calidad, valor y velocidad de entrega por equipo en un trimestre (base de los bonos), y que baje la rotación de equipos críticos. Sponsor: Gerencia de Agilidad.

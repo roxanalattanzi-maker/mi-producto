@@ -3,7 +3,7 @@
 > "Mi equipo se lleva bárbaro. Lo que nos mata son las dependencias con otras tres áreas y un ambiente de pruebas que se cae dos veces por semana."
 
 - **Role:** Scrum Master de un equipo con mala entrega por causas técnicas y de dependencias, sin conflictos entre personas
-- **Type:** negative
+- **Type:** secondary
 - **Age range:** 32–38
 - **Location:** híbrido, 2 días en la oficina
 - **Industry:** área de sistemas de una organización grande (integraciones)
