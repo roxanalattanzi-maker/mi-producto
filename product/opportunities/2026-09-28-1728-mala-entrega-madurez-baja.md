@@ -41,12 +41,12 @@ Interno: que mejoren calidad, valor y velocidad de entrega por equipo en un trim
 - [opportunity: mala-entrega-madurez-baja] [value] NUEVA: en equipos de madurez muy baja la falta de comunicación con negocio es un dolor real: 20% o menos de los SM declara alcance claro y buena comunicación (hipótesis comunicacion-con-negocio)
 
 ## Research agenda
-| Belief | Instrument | Decision it unlocks | By when |
-|---|---|---|---|
-| Nueva (negocio) | Export del ranking, luego encuesta a SM con dos preguntas cerradas | Si la causa "negocio" es dolor general o de un segmento | A definir con Silvina |
-| Creencia 3 (personas vs. otras causas) | Cruzar ranking con métricas; entrevistas a perfiles tipo Mariela y tipo Florencia | Si la constelación es el servicio adecuado o hay que ofrecer otro | Antes de elegir solución |
-| Creencia 6 (aceptación) | Convocatoria con acción concreta, más del 20% de los convocados (hipótesis aceptacion-constelacion) | Go/no-go del líder de agilidad | Tras la encuesta |
-| Creencia 5 (mejora trimestral) | Piloto con equipos comparables | Continuidad del financiamiento | Fin del trimestre del piloto |
+| Belief                                 | Instrument                                                                                          | Decision it unlocks                                               | By when                      |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------- |
+| Nueva (negocio)                        | Export del ranking, luego encuesta a SM con dos preguntas cerradas                                  | Si la causa "negocio" es dolor general o de un segmento           | A definir con Silvina        |
+| Creencia 3 (personas vs. otras causas) | Cruzar ranking con métricas; entrevistas a perfiles tipo Mariela y tipo Florencia                   | Si la constelación es el servicio adecuado o hay que ofrecer otro | Antes de elegir solución     |
+| Creencia 6 (aceptación)                | Convocatoria con acción concreta, más del 20% de los convocados (hipótesis aceptacion-constelacion) | Go/no-go del líder de agilidad                                    | Tras la encuesta             |
+| Creencia 5 (mejora trimestral)         | Piloto con equipos comparables                                                                      | Continuidad del financiamiento                                    | Fin del trimestre del piloto |
 
 ## Candidate ideas (not evaluated)
 - Constelación organizacional (servicio actual del overview)

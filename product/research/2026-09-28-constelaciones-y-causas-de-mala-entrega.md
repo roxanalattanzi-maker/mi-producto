@@ -5,7 +5,7 @@ date: 2026-09-28
 question: ¿Qué se sabe fuera de la organización sobre la eficacia de las constelaciones organizacionales y sobre las causas de la mala entrega en equipos (personas vs. claridad y comunicación con negocio)?
 opportunity: mala-entrega-madurez-baja
 ---
-
+ 
 # Research: constelaciones y causas de mala entrega
 
 Tres hallazgos cambian decisiones. (1) La evidencia sobre constelaciones en organizaciones es prometedora pero débil: una revisión sistemática halló pocos estudios, casi todos sin grupo control, y ninguno mide calidad, valor o velocidad de entrega, que es lo que financia la Gerencia de Agilidad. (2) Los estudios generales sobre proyectos y equipos apuntan a ambas causas de tu oportunidad, requisitos y comunicación por un lado, seguridad psicológica por otro, así que no ordenan cuál pesa más en tus equipos. (3) La investigación no cubrió competidores directos ni precios: sigue siendo "unknown".
@@ -31,14 +31,14 @@ Alcance: no se pudo abrir la fuente original del State of Agile; el dato viene d
 Unknown. No se investigó oferta comercial de constelaciones organizacionales (consultoras, precios, formatos). Para un servicio interno el dato relevante es el costo por sesión y por facilitador, que se obtiene mejor consultando proveedores.
 
 ## Impacto en creencias
-| Creencia (de overview.md) | Veredicto | Evidencia |
-|---|---|---|
-| 1. Equipos con mando vertical aceptarían participar porque el formato no expone | no dice nada | Ninguna fuente mide aceptación en equipos jerárquicos |
-| 2. La falta de comunicación con negocio es un dolor real (20% o menos declara claridad) | apoya la plausibilidad, no el umbral | PMI 2014: 47% de proyectos fallidos por requisitos mal gestionados [verificado] |
-| 3. La mala entrega se explica sobre todo por conflictos entre personas | contradice parcialmente | PMI y Aristotle señalan claridad y requisitos junto a seguridad psicológica; ninguna fuente ordena el peso |
-| 4. Una constelación hace visible una dinámica y lleva a acuerdos concretos | apoya débilmente | Revisión sistemática: insight sobre relaciones y menos conflicto percibido, estudios de baja calidad [verificado] |
-| 5. Mejoran calidad, valor y velocidad en un trimestre frente a equipos comparables | no dice nada, con alerta de plazo | Los resultados son de clima y conflicto percibido, no de entrega; el seguimiento reportado es de 4 meses [verificado] |
-| 6. SM y líderes la pedirían por iniciativa propia | no dice nada | Sin fuente |
+| Creencia (de overview.md)                                                               | Veredicto                            | Evidencia                                                                                                             |
+| --------------------------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| 1. Equipos con mando vertical aceptarían participar porque el formato no expone         | no dice nada                         | Ninguna fuente mide aceptación en equipos jerárquicos                                                                 |
+| 2. La falta de comunicación con negocio es un dolor real (20% o menos declara claridad) | apoya la plausibilidad, no el umbral | PMI 2014: 47% de proyectos fallidos por requisitos mal gestionados [verificado]                                       |
+| 3. La mala entrega se explica sobre todo por conflictos entre personas                  | contradice parcialmente              | PMI y Aristotle señalan claridad y requisitos junto a seguridad psicológica; ninguna fuente ordena el peso            |
+| 4. Una constelación hace visible una dinámica y lleva a acuerdos concretos              | apoya débilmente                     | Revisión sistemática: insight sobre relaciones y menos conflicto percibido, estudios de baja calidad [verificado]     |
+| 5. Mejoran calidad, valor y velocidad en un trimestre frente a equipos comparables      | no dice nada, con alerta de plazo    | Los resultados son de clima y conflicto percibido, no de entrega; el seguimiento reportado es de 4 meses [verificado] |
+| 6. SM y líderes la pedirían por iniciativa propia                                       | no dice nada                         | Sin fuente                                                                                                            |
 
 ## Qué sigue necesitando research primario
 - Encuesta (cuenta): umbral del 20% de SM que declaran alcance claro y buena comunicación; aceptación real de la constelación (más del 20% de convocados); peso relativo de las dos causas por equipo, cruzado con el ranking.

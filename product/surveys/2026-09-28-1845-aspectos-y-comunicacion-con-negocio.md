@@ -2,7 +2,7 @@
 source: survey-design
 date: 2026-09-28
 opportunity: mala-entrega-madurez-baja
-status: draft (sin lanzar)
+status: discarded
 launched_by: líder de agilidad
 ---
 
