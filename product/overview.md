@@ -22,3 +22,6 @@ Ordenadas por impacto × incertidumbre. La primera es la próxima a atacar.
 4. [product] [value] Una constelación hace visible una dinámica del equipo que sus miembros reconocen y que lleva a acuerdos concretos que no habían surgido en las retros.
 5. [product] [viability] Los equipos que pasan por una constelación mejoran calidad, valor y velocidad de entrega en un trimestre, más que equipos comparables que no pasaron por una.
 6. [product] [value] Los SM y líderes de los equipos con esos dolores pedirían la constelación por iniciativa propia, sin esperar a que el área de agilidad se la asigne. — weakened by product/insights/2026-10-22-1550-tomas-benitez.md (2026-10-22)
+7. [feature: constelacion] [value] Un conductor externo a Agilidad y una regla explícita de qué se devuelve al SM (solo conclusiones agregadas, sin atribuciones) alcanzan para que los miembros de un equipo con mando vertical participen.
+8. [feature: constelacion] [feasibility] Hay facilitadores disponibles a un costo por sesión compatible con el presupuesto de Agilidad.
+9. [feature: constelacion] [value] Que el SM esté presente o no durante la sesión no rompe la confianza del equipo.
