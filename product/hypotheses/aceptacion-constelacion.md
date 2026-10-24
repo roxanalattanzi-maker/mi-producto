@@ -1,7 +1,7 @@
 
 # Hipótesis: aceptación de la constelación por los agilistas
 
-**Tests:** creencia 5 de `product/overview.md` (los SM y líderes pedirían la constelación por iniciativa propia) y, en parte, la creencia 1 (aceptarían participar).
+**Tests:** creencia 1 de `product/overview.md` (aceptarían participar en una constelación), en la parte de SM y líderes convocados por Agilidad. No mide la creencia 6 (pedirla por iniciativa propia).
 
 **Decide:** el líder de agilidad. Es quien define si el servicio avanza.
 
